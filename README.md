@@ -1,8 +1,8 @@
-# Data Science With Streamlit Workshop
-This workshop introduces you to Streamlit, an app framework for ML and Data Science, by working with Uber Pickups and Google Quickdraw Data.
+# Data Science With Streamlit
+This repo introduces you to Streamlit, an app framework for ML and Data Science, by working with Uber Pickups and Google Quickdraw Data.
 
 ### Getting Started
-To get started with the workshop, we must install some dependencies. We require Python2.7.0/3.6.x or greater installed in your environment. 
+To get started, we'll install some dependencies. We require Python2.7.0/3.6.x or greater installed in your environment. 
 
 Installing Streamlit:
 
