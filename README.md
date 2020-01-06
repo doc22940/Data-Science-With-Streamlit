@@ -36,4 +36,4 @@ We'll look into whether users doodled their drawings starting with the outlining
 
 ***
 
-![Grey Software](https://github.com/grey-software/Grey-Software/blob/master/grey-software.png?raw=true)
+[![Grey Software](https://github.com/grey-software/Grey-Software/blob/master/grey-software.png?raw=true)](https://www.grey.software/)
